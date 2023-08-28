@@ -1,4 +1,6 @@
-# Aulas de HTML e CSS - Disciplina de IC
+# <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+# Aulas de HTML e CSS - Disciplina de IC 
+
 <p>Aula 01 </p>
 
 # Material Complementar
