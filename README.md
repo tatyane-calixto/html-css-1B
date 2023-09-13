@@ -8,3 +8,4 @@
 <p>🔗<a href="https://developer.mozilla.org/pt-BR/docs/Learn/HTML"> HTML </a></p>
 <p>🔗<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> CSS </a></p>
 <p>📹<a href="https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n"> HTML e CSS </a></p>
+<p>🔗<a href= "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> JavaScript </a></p>
