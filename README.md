@@ -6,7 +6,7 @@
     <li><p> <a href="https://github.com/tatyane-calixto/html-css-1B/tree/main/MiniProjeto%20-%20Aula%2005">  MiniProjeto - Aula 05  </a> </p></li>
     <li><p> <a href= "https://github.com/tatyane-calixto/html-css-1B/tree/main/MiniProjeto%20-%20Aula%2006">  MiniProjeto - Aula 06  </a> </p></li>
     <li><p> <a href= "#">  MiniProjeto - Aula 07  </a> </p></li>
-    <li><p> <a href= "#">  Aula 08 - HTMl e CSS  </a> </p></li>
+    <li><p> <a href= "https://github.com/tatyane-calixto/html-css-1B/tree/main/Aula08">  Aula 08 - HTMl e CSS  </a> </p></li>
 </ul>
 
 # Material Complementar
