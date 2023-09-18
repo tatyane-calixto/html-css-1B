@@ -1,16 +1,19 @@
+/* adicionar uma fonte  no seu site */
 @font-face {
     font-family: 'chicle';
     src: url("fonte/Chicle-Regular.ttf");
 }
 
-div{
+/* adicinar essa fonte em todas as divs */
+div {
     font-family: chicle;
 }
 
+/* imagem de background do site */
 body {
-    
+
     background-image: url('contato.webp');
-    /* A imagem de fundo se repita */
+    /* A imagem de fundo se repete */
     background-repeat: repeat;
 }
 
@@ -32,7 +35,7 @@ table {
     border: 2px solid #333;
 }
 
-/* Estilo para as células da tabela */
+/* Estilo para as células da tabela th e td*/
 th,
 td {
     padding: 10px;
@@ -40,4 +43,3 @@ td {
     text-align: left;
     border: 1px solid #ccc;
 }
-
