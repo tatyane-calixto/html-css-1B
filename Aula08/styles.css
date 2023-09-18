@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'chicle';
+    src: url("fonte/Chicle-Regular.ttf");
+}
+
+div{
+    font-family: chicle;
+}
+
+body {
+    
+    background-image: url('contato.webp');
+    /* A imagem de fundo se repita */
+    background-repeat: repeat;
+}
+
+/* Estilo para o cabeçalho */
+h1 {
+    color: #333;
+    font-size: 24px;
+    text-align: center;
+}
+
+/* Estilo para a tabela */
+table {
+    font-family: chicle;
+    width: 80%;
+    margin: auto;
+    /* Centralizar a tabela na página */
+    border-collapse: collapse;
+    background-color: #fff;
+    border: 2px solid #333;
+}
+
+/* Estilo para as células da tabela */
+th,
+td {
+    padding: 10px;
+    font-size: 24px;
+    text-align: left;
+    border: 1px solid #ccc;
+}
+
