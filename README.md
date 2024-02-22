@@ -16,4 +16,5 @@
 <p>🔗<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> CSS </a></p>
 <p>📹<a href="https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n"> HTML e CSS </a></p>
 <p>📹<a href="https://www.youtube.com/watch?v=Ptbk2af68e8&list=PLeuwJul7tRBfsm7sxnR5_7wG3KvaQ6oOt"> Curso JavaScript </a></p>
+<p>📹<a href="https://www.youtube.com/watch?v=Ptbk2af68e8&list=PLeuwJul7tRBfsm7sxnR5_7wG3KvaQ6oOt"> Curso JavaScript </a></p>
 <p>🔗<a href= "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> JavaScript </a></p>
