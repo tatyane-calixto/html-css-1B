@@ -8,6 +8,7 @@
     <li><p> <a href="https://github.com/tatyane-calixto/html-css-1B/tree/main/Acessibilidade"> Boas Práticas de Acessibilidade </a> </p></li>
     <li><p> <a href="https://github.com/tatyane-calixto/html-css-1B/tree/main/Aula%2008"> Aula 08 </a> </p></li>
     <li><p> <a href="https://github.com/tatyane-calixto/html-css-1B/tree/main/Aula%2009"> Aula 09 </a> </p></li>
+        <li><p> <a href="https://github.com/tatyane-calixto/html-css-1B/tree/main/Aula%2012"> Aula 12 </a> </p></li>
     <li><p> <a href="https://github.com/tatyane-calixto/html-css-1B/tree/main/MiniProjeto%20-%20Aula%2004">  MiniProjeto - Aula 04  </a> </p></li>
     <li><p> <a href="https://github.com/tatyane-calixto/html-css-1B/tree/main/MiniProjeto%20-%20Aula%2005">   MiniProjeto - Aula 05 </a> </p></li>
   </ul>
