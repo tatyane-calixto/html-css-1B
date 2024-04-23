@@ -2,7 +2,7 @@ body {
     background-color: #f4f4f4;
 }
 
-.calculator {
+.calculadora {
     max-width: 300px;
     margin: 100px auto;
     padding: 20px;
@@ -22,10 +22,12 @@ input[type="number"], select {
     width: 100%;
     padding: 10px;
     margin-bottom: 10px;
-    font-size: 20px;
+    font-size: 22px;
     border: 1px solid #ccc;
     border-radius: 5px;
     box-sizing: border-box;
+    color:#0056b3;
+    
 }
 
 button {
