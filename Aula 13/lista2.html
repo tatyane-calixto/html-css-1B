@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lista de Atividades</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Lista de Atividades</h2>
+    <ul id="listaAtividade">
+      <li class="atividade"><input type="checkbox"> Estudar inglês</li>
+      <li class="atividade"><input type="checkbox"> Fazer exercícios de programação</li>
+      <li class="atividade"><input type="checkbox"> Ir à academia</li>
+    </ul>
+    <input type="text" id="novaAtividade" placeholder="Adicionar nova atividade">
+    <button onclick="adicionarAtividade()">Adicionar</button>
+    <button onclick="deletarSelecionada()">Apagar Selecionados</button>
+    <button onclick="deletarTudo()">Apagar Tudo</button>
+  </div>
+
+  <script src="js/lista2.js"></script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .atividade {
+    padding: 10px;
+    background-color: #f2f2f2;
+    margin-bottom: 5px;
+  }
+  
+  .atividade:hover {
+    background-color: #e0e0e0;
+  }
+  
+  input[type="text"] {
+    width: 70%;
+    padding: 8px;
+    margin-top: 10px;
+  }
+  
+  button {
+    padding: 8px 20px;
+    margin-top: 5px;
+    background-color: #4caf50;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
